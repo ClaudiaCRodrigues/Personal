@@ -1,1 +1,0 @@
-MediaTop20 = CALCULATE(Average(Vendas[Valor]), Filter(Vendas,Vendas[Valor] >= PERCENTILE.EXC(Vendas[Valor], 0.8)))
