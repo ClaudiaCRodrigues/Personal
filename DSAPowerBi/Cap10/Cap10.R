@@ -4,13 +4,13 @@
 #
 #                               Data Science Academy
 #
-#                       Prevendo a InadimplÃªncia de Clientes
+#                       Prevendo a Inadimplência de Clientes
 #
 #*****************************************************************************
 
 # Definindo a pasta de trabalho
 getwd()
-setwd("D:/DSA/PowerBI-DataScience/Cap10")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap10")
 
 #################### Pacotes do R ####################
 
