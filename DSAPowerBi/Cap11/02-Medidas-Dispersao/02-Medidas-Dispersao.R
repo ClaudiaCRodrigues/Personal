@@ -2,7 +2,7 @@
 
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu computador
-setwd("D:/Dropbox/DSA/PowerBI-DataScience/Cap11/02-Medidas-Dispersao")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap11/02-Medidas-Dispersao")
 getwd()
 
 # Carregando o dataset
@@ -19,3 +19,6 @@ var(vendas$Valor)
 # Desvio Padrão
 sd(vendas$Valor)
 
+# Coeficiente de variacao
+CV <- sd(vendas$Valor)/mean(vendas$Valor)*(100)
+print(CV)
