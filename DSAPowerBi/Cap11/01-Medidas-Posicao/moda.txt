@@ -1,14 +1,14 @@
-# Caso tenha problemas, substitua as vírgulas por ponto-e-vírgula
+﻿# Caso tenha problemas, substitua as vírgulas por ponto-e-vírgula
 
 Moda = MINX (
     TOPN (
-        1,
+        1;
         ADDCOLUMNS (
-            VALUES ( Vendas[Valor] ),
-            "Frequency", CALCULATE ( COUNT ( Vendas[Valor] ) )
-        ),
-        [Frequency],
+            VALUES ( Vendas[Valor] );
+            "Frequency"; CALCULATE ( COUNT ( Vendas[Valor] ) )
+        );
+        [Frequency];
         0
-    ),
+    );
     Vendas[Valor]
 )
