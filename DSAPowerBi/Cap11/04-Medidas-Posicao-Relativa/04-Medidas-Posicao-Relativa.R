@@ -2,7 +2,7 @@
 
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu computador
-setwd("D:/Dropbox/DSA/PowerBI-DataScience/Cap11/04-Medidas-Posicao-Relativa")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap11/04-Medidas-Posicao-Relativa")
 getwd()
 
 

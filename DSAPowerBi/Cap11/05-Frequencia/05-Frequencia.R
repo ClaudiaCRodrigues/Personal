@@ -2,7 +2,7 @@
 
 # Definindo a pasta de trabalho
 # Substitua o caminho abaixo pela pasta no seu computador
-setwd("D:/Dropbox/DSA/PowerBI-DataScience/Cap11/05-Frequencia")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap11/05-Frequencia")
 getwd()
 
 # Carregando e sumarizando os dados
