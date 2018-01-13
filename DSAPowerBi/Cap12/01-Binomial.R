@@ -1,7 +1,7 @@
 # Distribuição Binomial
 
 # Pasta de trabalho
-setwd("~/Dropbox/DSA/PowerBI-DataScience/Cap12")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap12")
 getwd()
 
 # Funções de Distribuição Binomial no R

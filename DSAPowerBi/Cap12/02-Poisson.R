@@ -1,7 +1,7 @@
 # Distribuição Poisson
 
 # Pasta de trabalho
-setwd("~/Dropbox/DSA/PowerBI-DataScience/Cap12")
+setwd("~/GitHub/Personal/DSAPowerBi/Cap12")
 getwd()
 
 # A distribuição de Poisson é a distribuição de probabilidade de ocorrências de eventos independentes em um 
